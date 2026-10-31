@@ -1,15 +1,15 @@
 # 🚀 Spring Boot Product Management API
 
 <p align="center">
-  **A Clean and Structured RESTful API for Product Management**
+  <strong>A Clean and Structured RESTful API for Product Management</strong>
 </p>
 
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?logo=springboot)
-  ![H2](https://img.shields.io/badge/H2-Database-blue)
-  ![Maven](https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven)
-  ![License](https://img.shields.io/badge/License-MIT-green)
+  <img src="https://img.shields.io/badge/Java-17-orange?logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?logo=springboot" />
+  <img src="https://img.shields.io/badge/H2-Database-blue" />
+  <img src="https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
 ---
